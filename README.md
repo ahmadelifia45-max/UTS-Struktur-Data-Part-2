@@ -14,3 +14,6 @@ Jika user memasukkan n = 7
 
 Jika user memasukkan n = 13
 <img width="402" height="90" alt="Screenshot 2026-04-22 012728" src="https://github.com/user-attachments/assets/7e88fe57-e527-4f9d-af30-cf5a7b4f26d2" />
+
+## AHMAD ELIFIA ASHARI/25161562070
+<img width="960" height="1280" alt="WhatsApp Image 2026-04-23 at 22 58 48" src="https://github.com/user-attachments/assets/9d667b24-93c8-4a9f-8b5f-4d8199901a61" />
